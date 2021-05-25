@@ -1,0 +1,128 @@
+body, html {
+  
+  background-image: url("../istockphoto-187537341-1024x1024 (1).jpg");
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+
+  }
+
+
+
+.navbar{
+box-shadow:0 0 15px 0 black;
+border-bottom: 1px solid white;
+}
+
+.nav-item{
+  margin-left: 20px;
+}
+
+.page-footer{
+  
+  bottom:0;
+  width: 100%;
+}
+
+.loginform{
+      box-shadow: 15px 15px 15px black;
+      margin-top: auto;
+      margin-bottom: auto;  
+      background: white;
+      position: relative;
+      justify-content: center;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      padding-left: 60px;
+      padding-right: 60px;
+      border-radius: 10px;
+      width: 500px;
+}
+
+element.style {
+}
+.input-group>.input-group-append:last-child>.btn:not(:last-child):not(.dropdown-toggle), .input-group>.input-group-append:last-child>.input-group-text:not(:last-child), .input-group>.input-group-append:not(:last-child)>.btn, .input-group>.input-group-append:not(:last-child)>.input-group-text, .input-group>.input-group-prepend>.btn, .input-group>.input-group-prepend>.input-group-text {
+ 
+      background: #c0392b ;
+      color: white;
+      border: 0 ;
+      border-top-left-radius: 5px;
+      border-bottom-left-radius: 5px;  
+    }
+
+.input-group{
+  border-radius: 5px;
+  
+}
+.login_btn{
+  border-radius: 5px;
+  width: 80px;
+  padding: 3px;
+
+  
+}
+.page-footer{
+  box-shadow: 15px black;
+  border-top: 1px solid white;
+}
+
+
+.Desprenoi{
+  background-color: rgba(251, 202, 202, 0.6);
+  border-radius: 10px;
+}
+
+
+
+.jocuri-categorii{
+  width: 100%;
+  background-color:white;
+  height: 1000px;
+}
+
+.imgp{
+  height:15em;
+  transition:transform .2s;
+}
+.imgp:hover{
+  opacity: 0.5;
+  transform: scale(1.1);
+}
+
+.productbox {
+    background-color:#ffffff;
+  padding:10px;
+  margin-bottom:10px;
+  box-shadow: 0 8px 6px -6px #999;
+  border-radius: 10px;
+
+}
+
+.marginiprodus{
+  padding: 3px;
+}
+
+.producttitle {
+    font-weight:bold;
+  padding:5px 0 5px 0;
+}
+
+.productprice {
+  border-top:1px solid #dadada;
+  padding-top:5px;
+}
+
+.pricetext {
+  font-weight:bold;
+  font-size:1.4em;
+}
+
+
+
+.productpageimg{
+  margin: 10px;
+  transition: transform .2s;
+}
+.productpageimg:hover{
+  transform: scale(1.04);
+}
